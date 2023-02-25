@@ -8,5 +8,7 @@ public class AtmApp {
         //version 4
         System.out.println("gitiogrenmek cok kolay");
         System.out.println("murat yeni bir özellik ekledi");
+          // master
+        System.out.println("mastre de yeni seyler var");
     }
 }
